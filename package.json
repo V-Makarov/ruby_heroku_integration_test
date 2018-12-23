@@ -1,0 +1,5 @@
+{
+  "name": "ruby_heroku_integration_test",
+  "private": true,
+  "dependencies": {}
+}
